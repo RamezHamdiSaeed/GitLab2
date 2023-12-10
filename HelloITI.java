@@ -12,7 +12,7 @@ public class HelloITI{
 	}
 	static void printHelloGitHusayn(){
 		
-		System.out.println("Hello Git");
+		System.out.println("Hello Git Ramez");
 
 		
 	}
