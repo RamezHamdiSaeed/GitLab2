@@ -12,7 +12,8 @@ public class HelloITI{
 	}
 	static void printHelloGit(){
 		
-		System.out.println("Hello Git");
+		System.out.println("Hello Git Husayn&Ramez2023");
+		//Ramez Is Here&Husayn
 
 		
 	}
