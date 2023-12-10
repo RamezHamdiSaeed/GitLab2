@@ -10,11 +10,14 @@ public class HelloITI{
 
 		
 	}
-	static void printHelloGit(){
+	static void printHelloGitHusayn(){
 		
 		System.out.println("Hello Git");
 
 		
+	}
+	public void printHusayn(){
+		System.out.println("Husay");
 	}
 	
 	
